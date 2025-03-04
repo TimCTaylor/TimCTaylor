@@ -16,6 +16,7 @@ I took a career sabbatical to spend a decade as a professional science fiction a
 - Python, Java, SQL. A bit of go. And a host of languages I've forgotten or never encountered, but I pick them up easily.
 - Pytest, JUnit, Selenium.
 - API testing, web test automation, unit testing.
+- git, github, VSCode, IntelliJ, NetBeans
 - Test planning, test design, test scripting, test execution, defect and issue tracking.
 - Excellent communicator in writing (obviously), but also training delivery, teamworking, and mentoring.
 
