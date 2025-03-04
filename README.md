@@ -20,7 +20,7 @@ I took a career sabbatical to spend a decade as a professional science fiction a
 - API testing, web test automation, unit testing.
 - git, github, VSCode, IntelliJ, NetBeans
 - Test planning, test design, test scripting, test execution, defect and issue tracking.
-- Excellent communicator in writing (obviously), but also training delivery, teamworking, and mentoring.
+- Excellent communicator in writing (obviously), but also teamworking, leadership, mentoring, and delivering training.
 
 
 ## Projects
