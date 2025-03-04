@@ -1,6 +1,8 @@
 # Hello, I'm Tim Taylor 👋
 
-Welcome to my profile on GitHub. I have decades of experience throughout the SDLC as a coder, architect, agile advocate, project manager, quality assurance manager, and I am currently focussed on software testing.
+Welcome to my profile on GitHub.
+
+I have decades of experience throughout the SDLC as a coder, architect, agile advocate, project manager, quality assurance manager, and I am currently focussed on software testing.
 
 I took a career sabbatical to spend a decade as a professional science fiction author, during which I wrote 25 novels and sold 400,000 copies of my books. Since I came back from the stars, I have been busy as a software development engineer in test (API testing / Python / Pytest/ JSON/ golang) and test automation engineer (Selenium / Java/ Junit).
 
