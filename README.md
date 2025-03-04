@@ -1,4 +1,4 @@
-# Hello, I'm Tim C. Taylor 👋
+# Hello, I'm Tim Taylor 👋
 
 Welcome to my profile on GitHub. I have decades of experience throughout the SDLC as a coder, architect, agile advocate, project manager, quality assurance manager, and I am currently focussed on software testing.
 
