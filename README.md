@@ -18,8 +18,9 @@ I took a career sabbatical to spend a decade as a professional science fiction a
 - Python, Java, SQL. A bit of go. And a host of languages I've forgotten or never encountered, but I pick them up easily.
 - Pytest, JUnit, Selenium.
 - API testing, web test automation, unit testing.
-- git, github, VSCode, IntelliJ, NetBeans
+- git, GitHub, VSCode, IntelliJ, Jira, Confluence
 - Test planning, test design, test scripting, test execution, defect and issue tracking.
+- CI/CD - Jenkins, Maven.
 - Excellent communicator in writing (obviously), but also teamworking, leadership, mentoring, and delivering training.
 
 
@@ -44,6 +45,12 @@ I use a TestSession class that, amongst other things, handles the selection of d
 
 ##### OOP design 
 Constructor overloading, abstract page class, encapsulation, abstraction, separation of concerns.
+
+##### CI/CD
+Continuous integration with GitHub commits triggering Jenkins builds. Jenkins pipeline scripts shelling out to scripts and Maven invocation. I'm doing something in every phase of the Maven build lifecycle (though it's a little artificial after the test phase).
+
+##### Kanban, Agile, Jira, Confluence
+I'm managing my work through a Jira Kanban board, with phase planning using Confluence whiteboards.
 
 ## Connect with Me
 
