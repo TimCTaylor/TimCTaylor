@@ -52,6 +52,8 @@ Continuous integration with GitHub commits triggering Jenkins builds. Jenkins pi
 ##### Kanban, Agile, Jira, Confluence
 I'm managing my work through a Jira Kanban board, with phase planning using Confluence whiteboards.
 
+:point_right:[Follow this link to my Selenium Showcase project] (https://github.com/TimCTaylor/SeleniumShowcase)
+
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/tim-c-taylor/)
