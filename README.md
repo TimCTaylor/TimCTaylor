@@ -2,13 +2,13 @@
 
 Welcome to my profile on GitHub.
 
-I have decades of experience throughout the SDLC as a coder, architect, agile advocate, project manager, quality assurance manager, software process group manager, and I am currently focussed on software testing.
+I have decades of experience throughout the SDLC as a coder, architect, agile advocate, project manager, quality assurance manager, software process group manager, and I am currently focussed on software development and the technical side of testing.
 
 I took a career sabbatical to spend a decade as a professional science fiction author, during which I wrote 25 novels and sold 400,000 copies of my books. Since I came back from the stars, I have been busy as a software development engineer in test (API testing / Python / Pytest/ JSON/ golang) and test automation engineer (Selenium / Java/ Junit).
 
 ## About Me
 
-- 📈 I’m currently looking for work in test automation/ software testing.
+- 📈 I’m currently looking for work in test automation/ software development/ software testing.
 - 📫 How to reach me: [editors@greyhartpress.com](mailto:editors@greyhartpress.com)
 - ⚡ Fun fact: I share a name with the most award-winning British brewery.
 - 🦖 Were there dinosaurs when you started coding?: My first coding project was a D&D character generator in 1979 (I was 9). My trickiest was Microsoft C 5.1 (easy) driving Windows 2.11 SDK without a debugger (absolute nightmare).
